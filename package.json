@@ -1,0 +1,31 @@
+{
+  "name": "vaporeus",
+  "displayName": "vaporEus",
+  "description": "primerTemaPrueba",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eugeniotems",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Eugeniotems-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/paleta-de-color.png",
+  "autor": {
+    "name": "Eugenio Gordillo",
+    "email": "keno.gordillo13@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/ItsEugenio/extensionEugenio",
+    "type": "git"
+  },
+  "publisher": "temaEugenioFirtsDrop"
+}
