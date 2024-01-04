@@ -27,5 +27,9 @@
     "url": "https://github.com/ItsEugenio/extensionEugenio",
     "type": "git"
   },
-  "publisher": "temaEugenioFirtsDrop"
+  "publisher": "temaEugenioFirtsDrop",
+  "dependencies": {
+    "@vscode/vsce": "^2.22.0",
+    "vsce": "^2.15.0"
+  }
 }
